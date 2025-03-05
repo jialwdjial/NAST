@@ -6,7 +6,7 @@ from imports.ParametersManager import *
 from matplotlib import pyplot as plt
 import torchvision.transforms as transforms
 import csv
-from CellNet import  NastNet
+from NAST_Net import  NastNet
 from sklearn.metrics import roc_auc_score
 from sklearn.metrics import f1_score
 MODELNAME = 'Nast on Nist 94'
