@@ -14,5 +14,9 @@ pip install -r requirements.txt
 ```
 
 ### 神经架构搜索
+### 训练
+ ```bash
+python Train.py
 
-经过重构后将发布
+
+```
